@@ -1,0 +1,11 @@
+streamlit
+pandas
+openpyxl
+plotly
+statsmodels
+numpy
+matplotlib
+seaborn
+ipywidgets
+pyngrok
+nest_asyncio
