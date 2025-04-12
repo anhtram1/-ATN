@@ -7,7 +7,7 @@ A Streamlit-based financial dashboard to visualize and simulate expense changes 
 ## 🚀 Features
 - Upload Namtex's Excel financial data file
 - Preprocess and visualize financial metrics
-- Interactive pie charts for Selling & G&A expenses
+- Interactive pie charts for Selling and G&A expenses
 - Simulate expense changes and predict Net Operating Profit (NOP)
 - Regression analysis (via statsmodels)
 
